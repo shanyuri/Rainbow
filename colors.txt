@@ -6,6 +6,7 @@ green
 blue
 yellow
 pink
+VIOLET
 indigo
 pink!
 pink!
